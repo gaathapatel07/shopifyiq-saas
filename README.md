@@ -1,2 +1,3 @@
 # shopifyiq-saas
 AI-powered Shopify analytics dashboard project
+Project currently under development ...
